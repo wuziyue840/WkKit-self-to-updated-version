@@ -23,7 +23,7 @@
 - **移除自动更新检测**：不再自动检查和下载更新，避免与原版冲突
 
 ### 📝 重要变更
-- **版本号**：2.0.0-fork (标识为 fork 版本)
+- **版本号**：2.0.1 (标识为 fork 版本)
 - **邮件依赖**：需要安装 SweetMail 插件才能使用邮件功能
 - **优雅降级**：未安装 SweetMail 时会友好提示，不影响其他功能
 
@@ -59,7 +59,7 @@ WkKit 是一款专为 Minecraft 服务器打造的礼包/福利发放插件，�
 ### 基础安装
 1. **下载插件**：将 `WkKit-2.0.0-fork.jar` 放入服务器的 `plugins` 文件夹。
 2. **安装 SweetMail**（可选但推荐）：
-   - 下载 [SweetMail](https://github.com/MrXiaoM/SweetMail/releases) 最新版本
+   - 下载 [SweetMail](https://github.com/wuziyue840/WkKit-self-to-updated-version/releases) 最新版本
    - 放入 `plugins` 文件夹
    - 如果不安装，邮件功能将被禁用
 3. **重启服务器**，自动生成配置文件。
@@ -114,14 +114,10 @@ WkKit 是一款专为 Minecraft 服务器打造的礼包/福利发放插件，�
 
 ## 📝 更新日志
 
-### v2.0.0-fork (当前版本)
-- ✨ 集成 SweetMail 邮件系统
-- 🗑️ 移除内置邮件系统
-- 🗑️ 移除自动更新检测功能
-- 🔧 优化邮件发送逻辑，支持优雅降级
-- 📝 更新文档和说明
+### v2.0.1 (当前版本)
+- ✨ 修了一个小bug
 
-详见原版 [CHANGELOG](https://github.com/WekyJay/WkKit) 或 Releases 页面。
+详见原版 [CHANGELOG](https://github.com/wuziyue840/WkKit-self-to-updated-version) 或 Releases 页面。
 
 ---
 
@@ -130,6 +126,7 @@ WkKit 是一款专为 Minecraft 服务器打造的礼包/福利发放插件，�
 ### 原版作者
 - **作者**：WekyJay
 - **原版仓库**：[WkKit](https://github.com/WekyJay/WkKit)
+- **维护者仓库**：[WkKit](https://github.com/wuziyue840/WkKit-self-to-updated-version)
 - **QQ1️⃣群**：945144520
 - **QQ2️⃣群**：60484123
 
@@ -144,7 +141,7 @@ WkKit 是一款专为 Minecraft 服务器打造的礼包/福利发放插件，�
 
 1. **数据迁移**：从旧版本升级时，原有邮件数据无法自动迁移到 SweetMail
 2. **插件依赖**：强烈建议安装 SweetMail 以获得完整功能
-3. **版本识别**：本版本号为 `2.0.0-fork`，与原版不同
+3. **版本识别**：本版本号为 `2.0.1`，与原版不同
 4. **不兼容性**：此 Fork 版本与原版在邮件系统上不兼容
 
 ---
@@ -155,5 +152,6 @@ WkKit 是一款专为 Minecraft 服务器打造的礼包/福利发放插件，�
 - [SweetMail 文档](https://github.com/MrXiaoM/SweetMail/wiki)
 
 ---
+
 
 > 本 Fork 版本已适配 SweetMail 邮件系统，欢迎使用和反馈！
