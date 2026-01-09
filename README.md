@@ -127,8 +127,7 @@ WkKit 是一款专为 Minecraft 服务器打造的礼包/福利发放插件，�
 - **作者**：WekyJay
 - **原版仓库**：[WkKit](https://github.com/WekyJay/WkKit)
 - **维护者仓库**：[WkKit](https://github.com/wuziyue840/WkKit-self-to-updated-version)
-- **QQ1️⃣群**：945144520
-- **QQ2️⃣群**：60484123
+- **QQ1️⃣群**：461220691
 
 ### Fork 版本
 - **Fork 说明**：本版本为社区 Fork，非官方版本
@@ -155,3 +154,4 @@ WkKit 是一款专为 Minecraft 服务器打造的礼包/福利发放插件，�
 
 
 > 本 Fork 版本已适配 SweetMail 邮件系统，欢迎使用和反馈！
+
